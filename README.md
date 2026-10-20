@@ -10,7 +10,7 @@ From there, its plug and play. Connect your Arduino, upload the file, and gamble
 Bets are adjusted using a potentiometer, and upon bet confirmation, the second potentiometer is used to adjust bet amount. The pushbutton is used to start/stop the game, and our screen displays all necessary information including custom icons for the different suits.
 
 # Author Information
-This project was created by Sawyer Lutz and Thomas Connolly for CS303\
+This project was created by Sawyer Lutz and Thomas Connolly for CS303
 
 LinkedIn:
 [Sawyer Lutz](https://www.linkedin.com/in/sawyerlutz)
