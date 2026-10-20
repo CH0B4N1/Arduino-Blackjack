@@ -11,7 +11,7 @@ Bets are adjusted using a potentiometer, and upon bet confirmation, the second p
 
 # Author Information
 This project was created by Sawyer Lutz and Thomas Connolly for CS303
-LinkedIn:
+\nLinkedIn:
 [Sawyer Lutz](https://www.linkedin.com/in/sawyerlutz)
 [Thomas Connolly](https://www.linkedin.com/in/thomasdconnolly/)
 
